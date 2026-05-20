@@ -80,6 +80,31 @@ I specialize in **Data Science**, **Analytics** and **Machine Learning**, with a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gauraang05&theme=radical" alt="GitHub Streak Stats">
 </div>
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gauraang05&theme=radical&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</div>
+
+### 📈 Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauraang05&theme=radical" alt="Activity Graph">
+</div>
+
+### 💻 Most Used Languages (Pie Chart)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauraang05&layout=pie&theme=radical" alt="Languages Pie Chart">
+</div>
+
+### 📊 Detailed Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gauraang05&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&card_width=400" alt="Detailed Stats">
+</div>
+
+### 🔥 Advanced Metrics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gauraang05&show_icons=true&theme=radical&hide=contribs,issues" alt="Advanced Stats">
+</div>
+
 ---
 
 ## 💼 Core Competencies

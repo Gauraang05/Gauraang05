@@ -4,11 +4,17 @@
   <a href="https://www.linkedin.com/in/gauraang-rajvanshi/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:gauraang.rajvanshi@gmail.com">
+  <a href="mailto:rajvanshigauraang5@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/Gauraang05">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+   <a href="https://www.hackerrank.com/profile/rajvanshigauraa1">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+  <a href="tel:+918586966066">
+    <img src="https://img.shields.io/badge/Phone-%2334C759?style=for-the-badge&logo=iphone&logoColor=white" alt="Phone">
   </a>
 </div>
 
